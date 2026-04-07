@@ -8,8 +8,7 @@ type: Index
 position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
-tags:
-  - API
+tags: []
 created: '2025-02-06'
 modified: '2025-02-06'
 url: >-
@@ -24,8 +23,7 @@ apis:
       One, IndyCar, and more. Build custom data sets and discover insights that could
       give you an edge.
     humanURL: ' https://racing-data.org/'
-    tags:
-      - API
+    tags: []
     properties:
       - type: Documentation
         url: ' https://racing-data.org/'
