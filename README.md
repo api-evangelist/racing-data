@@ -1,38 +1,45 @@
 # Racing Data (racing-data)
-Our Racing API is designed with developers in mind. Access real-time updates and historical statistics from a variety of racing series, including Formula One, IndyCar, and more. Build custom data sets and discover insights that could give you an edge. 
+Racing Data is a developer-focused API providing real-time updates and historical statistics across racing series, including Formula One, IndyCar, and others. It is intended for building custom data sets and analytics experiences on top of motorsports data.
 
 **URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/racing-data/refs/heads/main/apis.yml)
 
 ## Scope
 
-- **Type:** Index 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+- **Type:** Index
+- **Position:** Consumer
+- **Access:** 3rd-Party
 
-## Tags:
+## Tags
 
- - API
+- Motorsports
+- Formula One
+- IndyCar
+- Racing
+- Statistics
+- Real-Time Data
 
 ## Timestamps
 
-- **Created:** 2025-02-06 
-- **Modified:** 2025-02-06 
+- **Created:** 2025-02-06
+- **Modified:** 2026-04-28
 
 ## APIs
 
 ### Racing Data
-Our Racing API is designed with developers in mind. Access real-time updates and historical statistics from a variety of racing series, including Formula One, IndyCar, and more. Build custom data sets and discover insights that could give you an edge. 
+Developer API for real-time and historical motorsports data across multiple racing series.
 
-**Human URL:** [ https://racing-data.org/]( https://racing-data.org/)
+**Human URL:** [https://racing-data.org/](https://racing-data.org/)
 
+#### Tags
 
-#### Tags:
-
- - API
+- Motorsports
+- Formula One
+- IndyCar
+- Statistics
 
 #### Properties
 
-- [Documentation]( https://racing-data.org/)
+- [Documentation](https://racing-data.org/)
 
 ## Maintainers
 
