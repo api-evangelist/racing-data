@@ -32,7 +32,7 @@ created: '2025-02-06'
 modified: '2026-04-28'
 url: >-
   https://raw.githubusercontent.com/api-evangelist/racing-data/refs/heads/main/apis.yml
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis:
   - aid: racing-data:racing-data
     name: Racing Data
