@@ -1,10 +1,8 @@
 aid: racing-data
 name: Racing Data
-description: >-
-  Racing Data is a developer-focused API providing real-time updates and
-  historical statistics across racing series, including Formula One, IndyCar,
-  and others. It is intended for building custom data sets and analytics
-  experiences on top of motorsports data.
+description: Racing Data is a developer-focused API providing real-time updates and historical statistics
+  across racing series, including Formula One, IndyCar, and others. It is intended for building custom
+  data sets and analytics experiences on top of motorsports data.
 type: Index
 deliveryModel:
   model: unknown
@@ -33,32 +31,32 @@ position: Consuming
 access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/racing-data.png
 tags:
+- Motorsports
+- Formula One
+- IndyCar
+- Racing
+- Statistics
+- Real-Time Data
+created: '2025-02-06'
+modified: '2026-09-16'
+url: https://raw.githubusercontent.com/api-evangelist/racing-data/refs/heads/main/apis.yml
+specificationVersion: '0.23'
+apis:
+- aid: racing-data:racing-data
+  name: Racing Data
+  description: Developer API for real-time and historical motorsports data across multiple racing series.
+  humanURL: https://racing-data.org/
+  tags:
   - Motorsports
   - Formula One
   - IndyCar
-  - Racing
   - Statistics
-  - Real-Time Data
-created: '2025-02-06'
-modified: '2026-04-28'
-url: >-
-  https://raw.githubusercontent.com/api-evangelist/racing-data/refs/heads/main/apis.yml
-specificationVersion: '0.23'
-apis:
-  - aid: racing-data:racing-data
-    name: Racing Data
-    description: >-
-      Developer API for real-time and historical motorsports data across
-      multiple racing series.
-    humanURL: https://racing-data.org/
-    tags:
-      - Motorsports
-      - Formula One
-      - IndyCar
-      - Statistics
-    properties:
-      - type: Documentation
-        url: https://racing-data.org/
+  properties:
+  - type: Documentation
+    url: https://racing-data.org/
 maintainers:
-  - FN: Kin Lane
-    email: kin@apievangelist.com
+- FN: Kin Lane
+  email: kin@apievangelist.com
+common:
+- type: Website
+  url: https://racing-data.org
