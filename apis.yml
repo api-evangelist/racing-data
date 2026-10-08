@@ -58,6 +58,12 @@ maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 common:
+- type: Plans
+  url: plans/racing-data-plans-pricing.yml
+- type: RateLimits
+  url: rate-limits/racing-data-rate-limits.yml
+- type: FinOps
+  url: finops/racing-data-finops.yml
 - type: Website
   url: https://racing-data.org
 x-lifecycle:
