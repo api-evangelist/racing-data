@@ -1,4 +1,4 @@
-# Racing Data (racing-data)
+# Racing Data
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,48 +66,93 @@
 
 Racing Data is a developer-focused API providing real-time updates and historical statistics across racing series, including Formula One, IndyCar, and others. It is intended for building custom data sets and analytics experiences on top of motorsports data.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/racing-data/refs/heads/main/apis.yml)
+**Areas:** Motorsports · Formula One · IndyCar · Racing · Statistics · Real-Time Data
 
-## Scope
+## Racing Data on APIs.io
 
-- **Type:** Index
-- **Position:** Consumer
-- **Access:** 3rd-Party
+Everything profiled for Racing Data is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/racing-data/](https://apis.io/providers/racing-data/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### APIs (1)
 
-- Motorsports
-- Formula One
-- IndyCar
-- Racing
-- Statistics
-- Real-Time Data
+- [Racing Data](https://apis.io/apis/racing-data/racing-data/) — Developer API for real-time and historical motorsports data across multiple racing series.
 
-## Timestamps
+### Published properties
 
-- **Created:** 2025-02-06
-- **Modified:** 2026-04-28
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Plans and pricing (1)
 
-### Racing Data
-Developer API for real-time and historical motorsports data across multiple racing series.
+Published plans, tiers and prices.
 
-**Human URL:** [https://racing-data.org/](https://racing-data.org/)
+- [Racing Data Plans Pricing](https://apis.io/plans/racing-data/racing-data-plans-pricing/)
 
-#### Tags
+#### Rate limits (1)
 
-- Motorsports
-- Formula One
-- IndyCar
-- Statistics
+Published request limits.
 
-#### Properties
+- [Racing Data Rate Limits](https://apis.io/rate-limits/racing-data/racing-data-rate-limits/)
 
-- [Documentation](https://racing-data.org/)
+#### FinOps (1)
 
-## Maintainers
+What the API costs to run, by operation.
 
-**FN:** Kin Lane
+- [Racing Data Finops](https://apis.io/finops/racing-data/racing-data-finops/)
 
-**Email:** kin@apievangelist.com
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://racing-data.org)
+
+## API Evangelist rating
+
+**Kin Score 7.0** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 4.8 |
+| Access clarity | 7.9 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 0.0** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/racing-data/](https://apis.io/providers/racing-data/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Racing Data: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/racing-data/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
